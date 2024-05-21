@@ -4,7 +4,7 @@ This repository creates a new installation of TFE FDO in Mounted Disk mode on Do
 
 # Diagram
 
-
+![tfe_fdo_on_docker_in_mounted_disk_mode](https://github.com/dmitryuchuvatov/terraform-amazon-tfe-fdo-docker-md/assets/119931089/52ac5af2-9542-4567-8aff-fb10f3c028cc)
 
 # Prerequisites
 + Have Terraform installed as per the [official documentation](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
